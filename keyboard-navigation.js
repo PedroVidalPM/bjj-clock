@@ -27,6 +27,9 @@ var settingsButtons = [
   $("#t-5-60"), $("#t-5-30"),
   $("#t-4-60"), $("#t-4-30"),
   $("#t-3-60"), $("#t-3-30"),
+  $("#t-2-60"), $("#t-2-30"),
+  $("#t-1-60"), $("#t-1-30"),
+  $("#t-30-30"), $("#t-20-10"),
 ];
 var settingsButtonsSelectedIndex = 0;
 settingsButtons[settingsButtonsSelectedIndex].addClass("selected");
